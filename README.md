@@ -13,8 +13,9 @@ where *n* is the number of ages, *O* is the measured age, *E* is the predicted a
 
 In addition to modifying the script, you should submit answers to the following questions:
 
-1. Looking at your plot and without looking at the goodness of fit value, how well would you say the predicted ages fit the measured ages in this example? Is this difficult to do? Why or why not?
-2. How well would you say the predicted ages fit the measurements using the calculated goodness of fit? Is your calculated goodness of fit intuitive to use? Why or why not?
+1. Looking at your plot and without looking at the goodness of fit value, how well would you say the predicted ages fit the measured ages in this example? Is this difficult to do? Why or why not? A: It's easy to see that the values dont fit.
+2. How well would you say the predicted ages fit the measurements using the calculated goodness of fit? Is your calculated goodness of fit intuitive to use? Why or why not? A: It seems like a useful tool. Goodness-of-fit (7.638...) looks to fit the plot as the predicted ages are pretty far from the errorbars.
+
 
 **For this problem, save a modified copy of the code in your Github repository and edit the `README.md` document to display a copy of your plot and answers to the questions above.**
 
@@ -32,6 +33,6 @@ For this exercise, you will add a conditional statement to your modified code fr
 ## Problem 1
 This is some text. You can use *italics* or **bold** text easily. You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You can see an example of how to display an image below.
 
-![Text shown if image does not load](Images/sine.png)
+![Text shown if image does not load](figure_1.png)
 
 Here is a bit more text beneath the image. Have fun!
